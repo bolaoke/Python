@@ -1,0 +1,17 @@
+Python is an interpreted high-level general purpose programming language. It is an open sourced and free to use, and object -oriented programing language. Phyton has libraries that makes it much easier to perform data analytics and visualization.
+Usefulness of python are:
+Python can perform complex operation.
+Python can work on very large data sets.
+Python code can be saved and rerun,
+All variables mention are allowed except a : python variable names not start with number asin
+1_message.
+Message = “Hello there!”
+print(message)
+firstname = “John”
+lastname = “doe”
+emailext = “@gmail.com
+name = ‘John’
+print( name.upper())
+print(name.lower())
+message = “Do you want to hang out on 15th of the month? “
+print(str(message)
